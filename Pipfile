@@ -8,6 +8,12 @@ boto3 = "*"
 ipykernel = "*"
 polars = "*"
 duckdb = "*"
+adlfs = "*"
+deltalake = "*"
+azure-storage-file-datalake = "*"
+azure-identity = "*"
+pyarrow = "*"
+s3fs = "*"
 
 [dev-packages]
 black = "*"
